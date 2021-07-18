@@ -1,0 +1,117 @@
+.menu
+
+{
+background-color:#FE6A6A;
+}
+
+.logo
+{
+height: 90px;
+width: 296.77783203125px;
+left: 146.22216796875px;
+top: 34.1552734375px;
+border-radius: 0px;
+padding: 10px;
+}
+
+.global-search-wrapper
+{
+    padding: 30px;
+}
+
+#global-search
+{
+    width: 100%;
+    border-radius: 2rem;
+}
+
+.cart
+{
+    height: 42.78931427001953px;
+    width: 44px;
+    left: 1522px;
+    top: 74.5146484375px;
+    border-radius: 0px;    
+}
+
+.cart-text
+{
+    color: white;
+    font-size: 20px;
+}
+
+.cart-container
+{
+    padding: 20px;
+}
+
+.nav-item{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight:bold;
+}
+.btn-primary
+{
+background-color:#FE6A6A;
+}
+
+.jumbotron img
+{
+  width: 90%;  
+}
+
+.original
+{
+color: 6d6d6d;
+text-decoration-line: line-through;
+}
+
+.test img
+{
+    size: 3px;
+    
+}
+
+.card-footer
+{
+background-color:#212121;
+color:white;
+height: 240px;
+}
+
+.apple-logo
+{
+width: 28px;
+height:28px;
+}
+
+.card
+{
+    border-style: hidden;
+}
+
+.testimonial-wrapper
+{
+    background-color:whitesmoke;
+}
+
+.card .btn-primary
+{
+
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
