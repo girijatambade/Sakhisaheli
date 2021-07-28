@@ -1,0 +1,78 @@
+.first-text
+{
+   font-size:  5.5rem;
+   font-weight:bold;
+   font-style: normal;
+   text-align: center;
+   text-decoration-color:#222222;
+}
+
+.second-text
+{
+   font-size:5.5rem; 
+   font-weight:bold;
+   font-style: normal;
+   text-align: center;
+   text-decoration-color:#222222;
+}
+
+.third-text
+{
+   font-size:1.5rem; 
+   font-weight:normal;
+   font-style: normal;
+   text-align: center;
+   text-decoration-color:#797979;
+}
+
+
+
+
+.text-field
+{
+    margin-top: 1rem;
+    margin-left: 17rem;
+    width:37rem;
+    height:1rem;
+}
+
+
+.investors
+{
+    font-size:  3rem;
+    font-weight:bold;
+    font-style:normal;
+   
+    text-align: center;
+    
+    text-decoration-color:#222222; 
+}
+
+
+
+.avatar
+{
+    
+    width: 9rem;
+    height: 9rem;
+    background-color: #aaa;
+    border-radius: 50%;
+    
+}
+
+.name
+{
+    color: #aaa;
+    font-size: 1.4rem;
+    font-weight:600;
+    
+}
+
+.position
+{
+    color: #aaa;
+    font-size: 1.2rem;
+    font-weight:normal;
+}
+
+
